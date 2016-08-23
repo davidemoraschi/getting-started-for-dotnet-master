@@ -1,0 +1,9 @@
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\PBIGettingStarted.exe.config
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\PBIGettingStarted.exe
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\PBIGettingStarted.pdb
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\obj\Debug\PBIGettingStarted.csprojResolveAssemblyReference.cache
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\obj\Debug\PBIGettingStarted.exe
+C:\sources\getting-started-for-dotnet-master\PBIGettingStarted\PBIGettingStarted\obj\Debug\PBIGettingStarted.pdb
